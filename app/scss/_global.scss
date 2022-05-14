@@ -27,7 +27,7 @@ main {
     margin: 0 auto;
 
     @media #{$mq-1000-up}{
-        display: flex;
+        // display: flex;
         padding: 1.5rem;
     }
 }
